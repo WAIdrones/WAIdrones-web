@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 1
-title: |
+title: 
   Wairarapa  
   Aerial
   Imaging
