@@ -23,5 +23,5 @@ design:
   css_class: d-flex align-items-center fullscreen
 ---
 
-Wairarapa Aerial Imaging
+
 {style="color: white"}
