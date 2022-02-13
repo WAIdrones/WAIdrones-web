@@ -29,15 +29,15 @@ feature:
 - icon: instagram
   icon_pack: fab
   name: MARKETING
-  description: We can produce unique photography and videography for showcasing your business in print or by social media.
+  description: Unique photography and videography for showcasing your business in print or by social media.
 - icon: city
   icon_pack: fas
   name: EXTERIOR INSPECTIONS
-  description: We can quickly and safely provide images for exterior inspection of large buildings and structures.
+  description: Quick and safe inspection of large building and structure exteriors.
 - icon: map
   icon_pack: fas
   name: TOPOGRAPHIC SURVEY
-  description: Using photogrammetry, we can provide cm-scale orthophotos and digital elevation models of your site.
+  description: High-resolution orthophotos and digital elevation models of land and buildings.
 - icon: ruler
   icon_pack: fas
   name: VOLUME MEASUREMENTS
@@ -45,7 +45,7 @@ feature:
 - icon: comment
   icon_pack: fas
   name: CUSTOM
-  description: Can;t see what you need? Get in contact below to see if we can offer a custom solution.  
+  description: Can't see what you need? Get in contact below to see if we can offer a custom solution.  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
