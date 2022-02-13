@@ -22,7 +22,7 @@ design:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: house
+- icon: fa-house
   icon_pack: fas
   name: REAL ESTATE
   description: Selling or renting? Stand out from the crowd with unique perspectives offered by aerial photos and videos.  
