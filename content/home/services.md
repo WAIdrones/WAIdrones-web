@@ -28,7 +28,7 @@ feature:
   description: Selling or renting? Stand out from the crowd with unique perspectives offered by aerial photos and videos.  
 - icon: instagram
   icon_pack: fab
-  name: MARKETING
+  name: BUSINESS MARKETING
   description: Unique photography and videography for showcasing your business in print or by social media.
 - icon: city
   icon_pack: fas
