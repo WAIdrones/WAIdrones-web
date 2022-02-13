@@ -34,3 +34,5 @@ social:
 ---
 
 Wairarapa Aerial Imaging is a locally-owned company offering a range of aerial photography and geospatial services for individuals and businesses. The company was founded by Dr Shaun Eaves, who has postgraduate qualifications (MSc. and PhD) in geospatial research. 
+
+{{< gallery album="<showcase>" >}}
