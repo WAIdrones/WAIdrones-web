@@ -13,7 +13,7 @@ subtitle:
 
 design:
   background:
-    image: davyst.jpg
+    image: davyst-unsplash.jpg
     image_darken: 0.3
     text_color_light: true
 
