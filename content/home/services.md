@@ -23,7 +23,7 @@ design:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - icon: house-chimney
-  icon_pack: fas
+  icon_pack: fa
   name: REAL ESTATE
   description: Selling or renting properties? Stand out from the crowd with photos and videos taken from unique perspectives.  
 - icon: weight
