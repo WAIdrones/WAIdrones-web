@@ -6,7 +6,7 @@ title: |
   Wairarapa  
   Aerial
   Imaging
-  {style="color: white; font-size: 5rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
+  {style="color: white; font-size: 4rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 cta:
   url: '#contact'
   label: '**CONTACT**'
