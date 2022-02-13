@@ -13,7 +13,7 @@ subtitle:
 
 design:
   background:
-    image: davyst.jpg
+    image: kelly-sikkema-bE6k8SQT2FQ-unsplash.jpg
     image_darken: 0.3
     text_color_light: true
 

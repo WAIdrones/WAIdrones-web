@@ -2,14 +2,13 @@
 widget: hero
 headless: true
 weight: 1
-title: | 
-  Wairarapa  
-  Aerial
-  Imaging
+title: |
+  LET'S GET  
+  MOVING
   {style="color: white; font-size: 5rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 cta:
   url: '#book'
-  label: '**CONTACT**'
+  label: '**BOOK NOW**'
 cta_alt:
   url: '#services'
   label: '<span style="color: white">View services</span>'
@@ -23,5 +22,5 @@ design:
   css_class: d-flex align-items-center fullscreen
 ---
 
-any text here
+KEREN YANG - ONLINE FITNESS COACH
 {style="color: white"}
