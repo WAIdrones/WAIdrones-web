@@ -29,7 +29,7 @@ feature:
 - icon: instagram
   icon_pack: fab
   name: BUSINESS MARKETING
-  description: Unique photography and videography for showcasing your business in print or by social media.
+  description: Unique aerial photography and videography for showcasing your business in print or by social media.
 - icon: city
   icon_pack: fas
   name: EXTERIOR INSPECTIONS
