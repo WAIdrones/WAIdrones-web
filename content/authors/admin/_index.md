@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shaun Eaves, PhD
+title: Shaun E, PhD
 
 # Is this the primary user of the site?
 superuser: true
