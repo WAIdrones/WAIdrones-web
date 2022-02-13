@@ -27,7 +27,7 @@ feature:
   name: REAL ESTATE
   description: Selling or renting? Stand out from the crowd with unique perspectives offered by aerial photos and videos.  
 - icon: instagram
-  icon_pack: fas
+  icon_pack: fab
   name: MARKETING
   description: We can produce unique photography and videography for showcasing your business in print or by social media.
 - icon: city
