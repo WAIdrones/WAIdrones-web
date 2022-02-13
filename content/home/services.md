@@ -22,21 +22,25 @@ design:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: fa-house
+- icon: home
   icon_pack: fas
   name: REAL ESTATE
   description: Selling or renting? Stand out from the crowd with unique perspectives offered by aerial photos and videos.  
-- icon: weight
+- icon: city
   icon_pack: fas
-  name: WEIGHT LOSS
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna.
-- icon: running
+  name: EXTERIOR INSPECTIONS
+  description: We can quickly and safely provide images for exterior inspection of large buildings and structures.
+- icon: map
   icon_pack: fas
-  name: CARDIO
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna.
-- icon: dumbbell
+  name: TOPOGRAPHIC SURVEY
+  description: Using photogrammetry, we can provide cm-scale orthophotos and digital elevation models of your site.
+- icon: ruler
   icon_pack: fas
-  name: STRENGTH
+  name: VOLUME MEASUREMENTS
+  description: Need to measure the size of a large or complex hole or pile? We can do that precisely from the air!
+- icon: ruler
+  icon_pack: fas
+  name: REPEAT SURVEY
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna.
 - icon: 🧘🏼‍♀️
   icon_pack: emoji
