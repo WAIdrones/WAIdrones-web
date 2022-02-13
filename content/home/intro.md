@@ -22,7 +22,3 @@ design:
   columns: '1'
   css_class: d-flex align-items-center fullscreen
 ---
-
-#Professional drone services
-
-#{style="color: white"}
