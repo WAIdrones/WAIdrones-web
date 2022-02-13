@@ -23,5 +23,5 @@ design:
   css_class: d-flex align-items-center fullscreen
 ---
 
-KEREN YANG - ONLINE FITNESS COACH
+
 {style="color: white"}
