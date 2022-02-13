@@ -44,8 +44,8 @@ feature:
   description: Need an accurate measurement of a hole or pile? We can do that from the air!
 - icon: comment
   icon_pack: fas
-  name: CUSTOM
-  description: Can't see what you need? Get in contact below to see if we can offer a custom solution.  
+  name: CUSTOM SOLUTIONS
+  description: Get in contact below to discuss your needs.  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
