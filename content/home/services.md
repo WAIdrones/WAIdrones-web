@@ -26,6 +26,10 @@ feature:
   icon_pack: fas
   name: REAL ESTATE
   description: Selling or renting? Stand out from the crowd with unique perspectives offered by aerial photos and videos.  
+- icon: instagram
+  icon_pack: fas
+  name: MARKETING
+  description: We can produce unique photography and videography for showcasing your business in print or by social media.
 - icon: city
   icon_pack: fas
   name: EXTERIOR INSPECTIONS
@@ -37,19 +41,11 @@ feature:
 - icon: ruler
   icon_pack: fas
   name: VOLUME MEASUREMENTS
-  description: Need to measure the size of a large or complex hole or pile? We can do that precisely from the air!
-- icon: ruler
+  description: Need an accurate measurement of a hole or pile? We can do that from the air!
+- icon: comment
   icon_pack: fas
-  name: REPEAT SURVEY
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna.
-- icon: 🧘🏼‍♀️
-  icon_pack: emoji
-  name: YOGA
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna.
-- icon: hiking
-  icon_pack: fas
-  name: POSTURE CORRECTION
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna.  
+  name: CUSTOM
+  description: Can;t see what you need? Get in contact below to see if we can offer a custom solution.  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
