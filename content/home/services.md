@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: CHOOSE YOUR ONLINE WORKOUT
+title: SEE WHAT WE CAN OFFER
 subtitle:
 
 design:
@@ -22,10 +22,10 @@ design:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: grin-beam-sweat
+- icon: house-chimney
   icon_pack: fas
-  name: BOOTCAMP
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu sem vehicula, mattis ipsum et, dapibus magna.
+  name: REAL ESTATE
+  description: Selling or renting properties? Stand out from the crowd with photos and videos taken from unique perspectives.  
 - icon: weight
   icon_pack: fas
   name: WEIGHT LOSS
@@ -61,5 +61,3 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
-
-Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
