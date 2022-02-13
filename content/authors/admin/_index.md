@@ -23,16 +23,19 @@ superuser: true
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: instagram
-  icon_pack: fab
-  link: https://instagram.com/therock
+  link: "mailto:wai.aerial.imaging@gmail.com".
+  
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: instagram
+#  icon_pack: fab
+#  link: https://instagram.com/therock
 
 ---
 
-Wairarapa Aerial Imaging is a locally-owned company offering a range of aerial photography and geospatial services for individuals and businesses. The company was founded by Dr Shaun Eaves, who has postgraduate qualifications (MSc. and PhD) in geospatial research. 
+Wairarapa Aerial Imaging is a locally-owned company offering a range of aerial photography and geospatial services for individuals and businesses. 
+
+# The company was founded by Dr Shaun Eaves, who has postgraduate qualifications (MSc. and PhD) in geospatial research. 
 
 {{< gallery album="showcase" >}}
