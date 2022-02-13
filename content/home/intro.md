@@ -8,8 +8,8 @@ title: |
   Imaging
   {style="color: white; font-size: 5rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 cta:
-  url: '#book'
-  label: '**BOOK NOW**'
+  url: '#contact'
+  label: '**CONTACT**'
 cta_alt:
   url: '#services'
   label: '<span style="color: white">View services</span>'
