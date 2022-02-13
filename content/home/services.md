@@ -45,7 +45,7 @@ feature:
 - icon: comment
   icon_pack: fas
   name: CUSTOM SOLUTIONS
-  description: Get in contact below to discuss your needs.  
+  description: Something else? Get in contact below to discuss your needs.  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
