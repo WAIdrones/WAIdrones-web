@@ -33,7 +33,7 @@ feature:
 - icon: city
   icon_pack: fas
   name: EXTERIOR INSPECTIONS
-  description: Quick and safe inspection of building/structure exteriors.
+  description: Quick and safe inspection of large building and structure exteriors.
 - icon: map
   icon_pack: fas
   name: TOPOGRAPHIC SURVEY
